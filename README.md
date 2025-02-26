@@ -8,7 +8,7 @@ Análise de Sentimentos: Identifica mensagens importantes com base no tom da con
 Armazenamento de Resumos: Salva resumos passados para consulta futura.
 Tecnologias Utilizadas
 Frontend: React Native
-Backend: Node.js + ReactNative
+Backend: Expo + ReactNative
 
 
 Desenvolvido Por: Matheus e Giovanna

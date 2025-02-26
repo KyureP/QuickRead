@@ -1,5 +1,5 @@
-QuickRead
-QuickRead é um aplicativo mobile que resume automaticamente as conversas do WhatsApp, ajudando os usuários a visualizar rapidamente os pontos principais das mensagens e a economizar tempo.
+# QuickRead
+# QuickRead é um aplicativo mobile que resume automaticamente as conversas do WhatsApp, ajudando os usuários a visualizar rapidamente os pontos principais das mensagens e a economizar tempo.
 
 Funcionalidades
 Resumo automático: Gera resumos concisos das conversas, destacando os tópicos e decisões principais.
